@@ -31,7 +31,7 @@ python driver.py [-h] --api-key API_KEY --video-id VIDEO_ID [--num NUM] [--thres
 
 These are the command line arguments `driver.py` takes:
 
-| tag           | purpose                                                                                    |
+| Tag           | Purpose                                                                                    |
 | ------------- | ------------------------------------------------------------------------------------------ |
 | `-h`          | Display help                                                                               |
 | `--api-key`   | YouTube API key. See below for details.                                                    |
