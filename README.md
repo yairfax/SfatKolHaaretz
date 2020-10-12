@@ -26,7 +26,7 @@ pip install -r requirements.txt
 SfatKolHaaretz is run by running `driver.py` with command line arguments.
 
 ```bash
-driver.py [-h] --api-key API_KEY --video-id VIDEO_ID [--num NUM] [--threshold THRESHOLD] [--outfile OUTFILE]
+python driver.py [-h] --api-key API_KEY --video-id VIDEO_ID [--num NUM] [--threshold THRESHOLD] [--outfile OUTFILE]
 ```
 
 These are the command line arguments `driver.py` takes:
