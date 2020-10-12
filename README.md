@@ -1,6 +1,6 @@
 # SfatKolHaaretz
 
-For anyone who grew up in the Modern Orthodox community, you know this type of music. It's the type you sang in camp in the last few hours of Shabbat. It's the type that's sung over and over and over again to Lecha Dodi by every chazzan who thinks they're original by using L'maancha. It's the type that that insufferable friend won't stop harmonizing too because the chord structure is usually pretty basic.
+For anyone who grew up in the Modern Orthodox community, you know this type of music. It's the type you sang in camp in the last few hours of Shabbat. It's the type that's sung over and over and over again to Lecha Dodi by every chazzan who thinks they're original by using L'maancha. It's the type that that insufferable friend won't stop harmonizing to because the chord structure is usually pretty basic.
 
 It's slow Jewish music.
 
