@@ -13,7 +13,7 @@ Now some of us enjoy listening to this music, even though it gets very repetitiv
 ![Portguese YouTube Comments](images/comments.png)
 _Some comments from Eitan Katz's [Lmaancha](https://www.youtube.com/watch?v=c08WY2MNCH8)_
 
-Surprised that Eitan Katz's L'maancha seemed to be so popular in Southern America, I tried to find a way to visualize this phenomnenon. And thus SfatKolHaaretz was born.
+Surprised that Eitan Katz's L'maancha seemed to be so popular in South America, I tried to find a way to visualize this phenomnenon. And thus SfatKolHaaretz was born.
 
 ## Installation
 
