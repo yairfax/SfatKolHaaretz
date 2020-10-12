@@ -1,4 +1,4 @@
-# CommentsLanguage
+# SfatKolHaaretz
 
 For anyone who grew up in the Modern Orthodox community, you know this type of music. It's the type you sang in camp in the last few hours of Shabbat. It's the type that's sung over and over and over again to Lecha Dodi by every chazzan who thinks they're original by using L'maancha. It's the type that that insufferable friend won't stop harmonizing too because the chord structure is usually pretty basic.
 
@@ -9,9 +9,9 @@ Now some of us enjoy listening to this music, even though it gets very repetitiv
 ![Portguese YouTube Comments](images/comments.png)
 _Some comments from Eitan Katz's [Lmaancha](https://www.youtube.com/watch?v=c08WY2MNCH8)_
 
-Surprised that Eitan Katz's L'maancha seemed to be so popular in Southern America, I tried to find a way to visualize this phenomnenon. And thus CommentsLanguage was born.
+Surprised that Eitan Katz's L'maancha seemed to be so popular in Southern America, I tried to find a way to visualize this phenomnenon. And thus SfatKolHaaretz was born.
 
-CommentsLanguage uses YouTube's API and [langdetect](https://pypi.org/project/langdetect/) to pull comments from a given video and then plots the number of comments by language.
+SfatKolHaaretz uses YouTube's API and [langdetect](https://pypi.org/project/langdetect/) to pull comments from a given video and then plots the number of comments by language.
 
 ## Installation
 
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-CommentsLanguage is run by running `driver.py` with command line arguments.
+SfatKolHaaretz is run by running `driver.py` with command line arguments.
 
 ```bash
 driver.py [-h] --api-key API_KEY --video-id VIDEO_ID [--num NUM] [--threshold THRESHOLD] [--outfile OUTFILE]
@@ -42,7 +42,7 @@ These are the command line arguments `driver.py` takes:
 
 ### YouTube API Key
 
-CommentsLanguage requires a YouTube API key to pull comments from a video.
+SfatKolHaaretz requires a YouTube API key to pull comments from a video.
 
 1.  Visit the [YouTube credentials page](https://developers.google.com/youtube/registering_an_application).
 2.  Click `Create Credentials` and then `API Key`
