@@ -36,8 +36,8 @@ These are the command line arguments `driver.py` takes:
 | Tag           | Purpose                                                                                    |
 | ------------- | ------------------------------------------------------------------------------------------ |
 | `-h`          | Display help                                                                               |
-| `--api-key`   | YouTube API key. See below for details.                                                    |
-| `--video-id`  | YouTube video ID. See below for details.                                                   |
+| `--api-key`   | YouTube API key. See [below](#youtube-api-key) for details.                                |
+| `--video-id`  | YouTube video ID. See [below](#youtube-video-id) for details.                              |
 | `--num`       | Maximum number of comments to process. Defaults to 100.                                    |
 | `--threshold` | Minimum number of comments per language to graph. Defaults to `num / 75`.                  |
 | `--outfile`   | Image file to write to. If not specified, `pyplot` will display the graph in a new window. |
