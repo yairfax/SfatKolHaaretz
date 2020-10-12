@@ -56,7 +56,7 @@ CommentsLanguage requires a YouTube API key to pull comments from a video.
 ### YouTube Video ID
 
 To obtain an ID from a YouTube video, navigate to that video and look at the URL. In the URL you will see `watch?v=<ID>`. We want to pull out that ID. Note that there may be other arguments to the URL, we only need the one following `v=` until and not including the next `&`.  
-For example, the video ID for L'maancha (#heilegebeismedrish), is `hsMUPCBTRRM`
+For example, the video ID for L'maancha (#HeilegeBeisMedrish), is `hsMUPCBTRRM`
 ![](images/vid.png)
 
 # Results
